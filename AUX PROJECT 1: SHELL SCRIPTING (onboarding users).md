@@ -23,13 +23,20 @@ I'll create a .sh file (onboarding_users.sh) to write the script in it.
 ![4b](https://user-images.githubusercontent.com/93729559/164446905-c444fcc8-3cf6-43b2-9cac-2e6983281db8.png)
 
 
-#### Step 3: Next I'll creete a .ssh folder to accomodate our private and public key
+#### Step 3: Next I'll create a .ssh folder to accomodate our private and public key
 
 ![5](https://user-images.githubusercontent.com/93729559/164454797-b614b7f9-49a7-47ff-ba3d-d5c2579884a5.png)
 
 ![5a](https://user-images.githubusercontent.com/93729559/164454804-6572d4db-dd27-4b4e-878f-f704ab0bb724.png)
 
 ![5b](https://user-images.githubusercontent.com/93729559/164454809-bc37d0d5-ddfd-4d61-9087-e891a3682b2e.png)
+
+
+#### Step 4: Next I'll create the developers group for the user, make the onboarding_users script executable and run the script.
+
+
+![5c](https://user-images.githubusercontent.com/93729559/164462033-34c576fb-fbb5-490d-ab37-3b8c9bd9ffb4.png)
+
 
 
 
