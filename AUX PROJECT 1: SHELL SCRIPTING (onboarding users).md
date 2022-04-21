@@ -37,6 +37,13 @@ I'll create a .sh file (onboarding_users.sh) to write the script in it.
 
 ![5c](https://user-images.githubusercontent.com/93729559/164462033-34c576fb-fbb5-490d-ab37-3b8c9bd9ffb4.png)
 
+![6](https://user-images.githubusercontent.com/93729559/164493005-3e8dafc1-3649-4115-93f3-d1c1d0c29a9d.png)
+
+![6b](https://user-images.githubusercontent.com/93729559/164494315-ef80b333-7bc0-4dfa-a819-5314f51f675d.png)
+
+
+
+
 
 
 
