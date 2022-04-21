@@ -43,7 +43,9 @@ I'll create a .sh file (onboarding_users.sh) to write the script in it.
 
 - The 20 users have been created sucessfully!
 
-- Now I am going to Test a few of the users randomly, and ensure that I'm able to connect to the server using the private key and the public key.
+
+
+
 
 
 
