@@ -41,6 +41,13 @@ I'll create a .sh file (onboarding_users.sh) to write the script in it.
 
 ![6b](https://user-images.githubusercontent.com/93729559/164494315-ef80b333-7bc0-4dfa-a819-5314f51f675d.png)
 
+- The 20 users have been created sucessfully!
+
+- Now I am going to Test a few of the users randomly, and ensure that I'm able to connect to the server using the private key and the public key.
+
+
+
+
 
 
 
