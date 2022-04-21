@@ -18,4 +18,19 @@ I'll create a .sh file (onboarding_users.sh) to write the script in it.
 ![3](https://user-images.githubusercontent.com/93729559/164442979-1e4622cd-d33e-47ea-86be-9dac04c0609b.png)
 
 
+![4](https://user-images.githubusercontent.com/93729559/164446880-59789f00-dcbe-4bbd-ac63-de8209c2ccc6.png)
+
+![4b](https://user-images.githubusercontent.com/93729559/164446905-c444fcc8-3cf6-43b2-9cac-2e6983281db8.png)
+
+
+#### Step 3: Next I'll creete a .ssh folder to accomodate our private and public key
+
+![5](https://user-images.githubusercontent.com/93729559/164454797-b614b7f9-49a7-47ff-ba3d-d5c2579884a5.png)
+
+![5a](https://user-images.githubusercontent.com/93729559/164454804-6572d4db-dd27-4b4e-878f-f704ab0bb724.png)
+
+![5b](https://user-images.githubusercontent.com/93729559/164454809-bc37d0d5-ddfd-4d61-9087-e891a3682b2e.png)
+
+
+
 
