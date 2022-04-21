@@ -34,3 +34,5 @@ I'll create a .sh file (onboarding_users.sh) to write the script in it.
 
 
 
+
+
